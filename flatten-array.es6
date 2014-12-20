@@ -4,4 +4,4 @@ export default function flattenArray(array) {
     }
 
     return [for (subArray of array) for(ele of subArray) ele];
-}
+};
