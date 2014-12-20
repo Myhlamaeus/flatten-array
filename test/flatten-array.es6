@@ -1,3 +1,5 @@
+"use strict";
+
 import flattenArray from "../flatten-array.es6";
 
 const assert = require("assert");
