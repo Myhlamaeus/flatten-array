@@ -31,7 +31,7 @@ describe("flattenArray()", function() {
     });
 
     it(`returns an empty array if an empty array is supplied`, function() {
-        assert.deepEqual(flattenArray([[]]), []);
+        assert.deepEqual(flattenArray([]), []);
     });
 
     it(`returns an empty array if all elements are empty arrays`, function() {
