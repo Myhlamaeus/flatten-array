@@ -5,7 +5,7 @@
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
   ],
-  "main": "flatten-array.es6",
+  "main": "flatten-array.js",
   "moduleType": [
     "es6"
   ],

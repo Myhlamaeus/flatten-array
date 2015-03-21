@@ -2,7 +2,7 @@
   "name": "flatten-array",
   "version": "0.1.0",
   "description": "flatten-array\r =============",
-  "main": "flatten-array.es6",
+  "main": "flatten-array.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
