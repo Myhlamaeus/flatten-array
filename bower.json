@@ -1,7 +1,7 @@
 {
   "name": "flatten-array",
   "description": "Combine multiple subarrays to a single array",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/ileri/flatten-array",
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
