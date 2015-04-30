@@ -1,2 +1,2 @@
-flatten-array
+flatten-array [![Code Climate](https://codeclimate.com/github/ileri/flatten-array/badges/gpa.svg)](https://codeclimate.com/github/ileri/flatten-array) [![Build Status](https://travis-ci.org/ileri/flatten-array.svg)](https://travis-ci.org/ileri/flatten-array) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 =============
