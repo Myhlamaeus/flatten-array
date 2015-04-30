@@ -1,6 +1,6 @@
-'use strict'
+/* global describe, it */
 
-import flattenArray from '../flatten-array.es6'
+import flattenArray from '../flatten-array'
 
 const assert = require('assert')
 
